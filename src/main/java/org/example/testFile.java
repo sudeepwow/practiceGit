@@ -6,4 +6,6 @@ public class testFile {
 
         System.out.println("hello everyone");
     }
+
+//    merging feature to git
 }
